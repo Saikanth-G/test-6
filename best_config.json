@@ -1,0 +1,6 @@
+{
+  "dr": "FactorAnalysis",
+  "n_qubits": 4,
+  "n_layers": 2,
+  "measurement": "softmax_z"
+}
